@@ -13,6 +13,6 @@ pip install -r requirements.txt
 ```
 2. Запускаем игру:  
 ```bash
-python SakuraBrew.py
+python sakura_brew.py
 ```
 **или** запускаем sakura_brew.bat
