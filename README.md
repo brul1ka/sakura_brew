@@ -15,7 +15,4 @@ pip install -r requirements.txt
 ```bash
 python SakuraBrew.py
 ```
-**или**
-```bash
-python SakuraBrew.py
-```
+**или** запускаем sakura_brew.bat
